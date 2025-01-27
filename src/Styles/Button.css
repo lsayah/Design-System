@@ -1,0 +1,38 @@
+
+
+
+.btn {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.btn i {
+  margin-right: 8px;
+}
+
+.AddTicketBtn {
+  background-color: #123456;
+  color: white;
+  border-radius: 5px;
+  padding: 2% 5%;
+}
+
+.SendTicketBtn {
+  background-color: #68D8C2;
+  color: rgb(0, 0, 0);
+  border-radius: 5px;
+  padding: 1% 5%;
+}
+
+.AddFileBtn {
+  background-color: rgb(179, 178, 178);
+  color: rgb(0, 0, 0);
+  border-radius: 5px;
+  padding: 1% 5%;
+}
